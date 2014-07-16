@@ -2,6 +2,7 @@ VAGRANTFILE_API_VERSION = "2"
 
 # コメントを追加
 # さらにコメントを
+# さらなるコメント
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box = "centos6.5"
 
